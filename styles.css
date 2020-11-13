@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+h1,
+h2 {
+  text-align: center;
+}
+
+div.navigation {
+  padding: 10;
+  background-color: aquamarine;
+  width: 80%;
+  margin: 0 auto;
+  box-sizing: border-box;
+}
+
+div.nav-item {
+  background-color: lightblue;
+  margin: 2%;
+  width: 29.3%;
+  height: 20vh;
+  float: left;
+  text-align: center;
+  font-size: larger;
+}

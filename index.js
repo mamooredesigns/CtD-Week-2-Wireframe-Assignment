@@ -1,0 +1,1 @@
+alert("Welcome to Mary Alice Moore's Portfolio!")
