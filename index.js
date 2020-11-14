@@ -1,1 +1,1 @@
-alert("Welcome to Mary Alice Moore's Portfolio!")
+alert("Hello World!")
